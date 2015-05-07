@@ -1,0 +1,6 @@
+2015-05-06 17:11:00,224 INFO c.b.t.t.m.deadlock.TestThreadLocked [main] com.beto.test.thread.main.deadlock.TestThreadLocked.main(deadlock.TestThreadLocked.java:10) start
+2015-05-06 17:11:00,227 INFO c.b.t.t.m.deadlock.TestThreadLocked [main] com.beto.test.thread.main.deadlock.TestThreadLocked.main(deadlock.TestThreadLocked.java:25) end
+2015-05-06 17:11:00,327 INFO c.b.t.t.r.RunnableDemo [Thread-4] com.beto.test.thread.runnable.RunnableDemo.run(RunnableDemo.java:30) Thread Thread-4 exiting. 
+2015-05-06 17:11:00,327 INFO c.b.t.t.r.RunnableDemo [Thread-3] com.beto.test.thread.runnable.RunnableDemo.run(RunnableDemo.java:30) Thread Thread-3 exiting. 
+2015-05-06 17:11:00,327 INFO c.b.t.t.r.RunnableDemo [Thread-1] com.beto.test.thread.runnable.RunnableDemo.run(RunnableDemo.java:30) Thread Thread-1 exiting. 
+2015-05-06 17:11:00,327 INFO c.b.t.t.r.RunnableDemo [Thread-2] com.beto.test.thread.runnable.RunnableDemo.run(RunnableDemo.java:30) Thread Thread-2 exiting. 

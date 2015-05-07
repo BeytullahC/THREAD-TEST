@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DEAD-LOCK/DEAD-LOCK.iml" filepath="$PROJECT_DIR$/DEAD-LOCK/DEAD-LOCK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendThread/ExtendThread.iml" filepath="$PROJECT_DIR$/ExtendThread/ExtendThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERPROCESS/INTERPROCESS.iml" filepath="$PROJECT_DIR$/INTERPROCESS/INTERPROCESS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RUNNABLE/RUNNABLE.iml" filepath="$PROJECT_DIR$/RUNNABLE/RUNNABLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THREAD-CONTROL/THREAD-CONTROL.iml" filepath="$PROJECT_DIR$/THREAD-CONTROL/THREAD-CONTROL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THREAD-Synch/THREAD-Synch.iml" filepath="$PROJECT_DIR$/THREAD-Synch/THREAD-Synch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THREAD-TEST.iml" filepath="$PROJECT_DIR$/THREAD-TEST.iml" />
+    </modules>
+  </component>
+</project>
